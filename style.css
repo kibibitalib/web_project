@@ -1,0 +1,35 @@
+
+.navbar-style{
+	box-shadow: 0px 5px 10px #efefef;
+}
+.logo{
+	height: 60px;
+	padding: 0px 0px;
+}
+.icon-bar{
+	background: black;
+}
+.footer {
+  background-color: rgb(128,128,128);
+  height: 8vh;
+}
+.navbar-styl{
+	background-color: rgb(128,128,128);
+}
+.navbar-dark{
+	background-color: rgb(128,128,128);
+
+}
+.navbar-header{
+	font-size: 25px;
+}
+/*not yet implemented*/
+/*.btn {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}*/
